@@ -3,10 +3,10 @@
     <div>
       <logo/>
       <h1 class="title">
-        my_webpage
+        I'm David Gage Hall.
       </h1>
       <h2 class="subtitle">
-        Nuxt.js project
+        My personal portfolio.
       </h2>
       <div class="links">
         <a href="https://nuxtjs.org/" target="_blank" class="button--green">Documentation</a>
