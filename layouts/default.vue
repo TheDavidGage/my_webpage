@@ -32,7 +32,7 @@ html {
 
 .button--green:hover {
   color: #fff;
-  background-color: #3b8070;
+  background-color: #afe076;
 }
 
 .button--grey {
